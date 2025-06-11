@@ -26,12 +26,12 @@ def divi(num1, num2):
         print("No se puede dividir por 0")
         time.sleep(3)
 
-#no recibe argumentos ni retorna nada
+#no recibe argumentos ni retorna
 def mostrar_menu():
 
-    print("=============================")
+    print("===============================")
     print("    ***MENU CALCULADORA***   ")
-    print("=============================")
+    print("===============================")
     print("1.- Sumar")
     print("2.- Restar")
     print("3.- Multiplicar")
